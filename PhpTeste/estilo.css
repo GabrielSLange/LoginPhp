@@ -1,0 +1,76 @@
+@charset 'utf-8';
+
+body{
+    background-color:skyblue;
+    border: solid black;
+    box-shadow: 7px 5px 1.5em black;
+    margin:2px;
+}
+div#externa{
+    border-radius: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: aliceblue;
+    margin: 14% 30% 15% 30%;
+    padding: 1% 4% 1% 4%;
+    background-color: rgb(0, 98, 255);
+    box-shadow: 7px 5px 1.5em black;
+}
+div#interna{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: aliceblue;
+    background-color: rgb(0, 98, 255);
+}
+div#interna p#cadastro{
+    margin-left: 29%;
+}
+div#interna p#cadastro a{
+    color: greenyellow;
+}
+div.erro{
+    background-color: red;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 30px;
+    padding: 2px;
+}
+input, label{
+    margin-left: 29%;
+    font-size: 14pt;
+}
+input#IdSenha1{
+    margin-left: 0%;
+    font-size: 14pt;
+}
+input#IdCpf{
+    margin-left: 3%;
+    font-size: 14pt;
+}
+input#IdSenha{
+    margin-left: 2%;
+    font-size: 14pt;
+}
+input#entrar{
+    margin-left: 43%;
+    font-size: 25px;
+    background-color: black;
+    color: aliceblue;
+    padding-left: 20px;
+    padding-right: 20px;;
+}
+input#entrar:hover{
+    background-color: aliceblue;
+    color: black;
+}
+footer{
+    padding: 2px;
+}
+footer p{
+    border-top: solid black;
+    text-align: center;
+}
+footer p a{
+    color: black;
+    text-decoration: none;
+}
