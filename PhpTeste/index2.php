@@ -15,7 +15,7 @@
     <div id="interface">
         <header id="cabecalho">
             <hgroup>
-                <h1>Google Glass</h1>
+                <h1>Google Glass - PHP</h1>
                 <h2>A revolução do Google está chegando</h2>
                 <br/><br/>
                 <img id="icone" src="_imagens\glass-oculos-preto-peq.png"/>
